@@ -1,4 +1,4 @@
-# 
+# Elite FaceVerify installer. Download and install with low-resource-usage and api-access — fast, secure, and easy to use.
 
 
 
